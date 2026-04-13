@@ -88,7 +88,13 @@ curl http://localhost:8000/issues
 curl -X POST http://localhost:8000/trigger
 ```
 
-# Resources
+---
+## Available on Railway
+- See email for details
+
+
+---
+## Resources
 - [netdata - example GH public repo](https://github.com/netdata/netdata/)
 - [Bruno - Git API client](https://www.usebruno.com)
 - [Slack - Block Kit docs](https://docs.slack.dev/block-kit/formatting-with-rich-text#header-block)
